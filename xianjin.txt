@@ -1,0 +1,49 @@
+ssh wuxianjin@dev02.haizhi.com
+haizhi  test test
+
+友盟账号
+shangqinghui@gmail.com
+sqhsqhsqh
+
+
+性能测试 ：multi-mechanize
+
+
+接口测试：fitnesse实现api接口自动化测试
+
+
+理顺目前接口调用   调研自动化工具   
+
+
+You should install Brew first:
+
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+Then brew install Python
+
+brew install python
+Then pip will work
+
+
+
+var data= JSON.parse(responseBody);
+tests["Body result length is 1 "] = data.result.length >0;
+tests["body result has name"] = data["result"][0]["name"] == "tommylike";
+tests["body result has id"] = data["result"][0]["id"] == "a7180e762a392e995402c9e953f9f227";
+
+
+
+vi .bash_profile 
+source .bash_profile  
+
+export ANDROID_HOME=/Users/xianjin/Library/Android/sdk;
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home;
+export M3_HOME=/usr/local/maven333;
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+export PATH=$PATH:$M3_HOME/bin
+export PATH=$PATH:$JAVA_HOME/bin
+
+
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
+
+
